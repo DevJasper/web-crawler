@@ -18,7 +18,7 @@ Asynchronous http client, supports https, currently only supports get operations
 ## 3. Compile and run
 
 ```
-Git clone https://github.com/DevJasper/crawler.git
+Git clone https://github.com/DevJasper/web-crawler.git
 Cd crawler
 Make
 ./crawlerss
